@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 16a01fc616f4b0143a41885c0f426e8a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerMatetial: {fileID: 2100000, guid: 8a084892846873f4dbf576f276f30e5a, type: 2}
+  - enemyMaterial: {fileID: 2100000, guid: e089599db14bbba4c918ca1151694337, type: 2}
+  - immuneMaterial: {fileID: 2100000, guid: d15c9b1730e63814ea8b3c6228da2171, type: 2}
+  - boostedMaterial: {fileID: 2100000, guid: 16e96d4c96e0f13459c7dc384ea4c26b, type: 2}
+  - friendMaterial: {fileID: 2100000, guid: c84c30f01a7ea674381aec09307786e9, type: 2}
+  - unitStatus: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
