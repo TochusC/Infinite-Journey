@@ -8,7 +8,7 @@
 [![version](https://img.shields.io/badge/Version-0.0.1-blue)](https://github.com/TochusC/ai-assistant-teaching-website)
 [![course](https://img.shields.io/badge/Unity-Game-blue)](https://github.com/TochusC/Infinite-Journey)
 
-[![madewithlove](https://img.shields.io/badge/made_with-%E2%9D%A4-red?style=for-the-badge&labelColor=orange)](https://github.com/TochusC/ai-assistant-teaching-website)
+[![madewithlove](https://img.shields.io/badge/made_with-%E2%9D%A4-red?style=for-the-badge&labelColor=orange)](https://github.com/TochusC/Infinite-Journey)
 
 
 [**简体中文**](./README.md)
