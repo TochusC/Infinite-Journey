@@ -1,4 +1,0 @@
-repository "New@tochusc@cloud.cn"
-  path "/"
-    smartbranch "/main" changeset "53"                                                                                                                
-     
