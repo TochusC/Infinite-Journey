@@ -14,11 +14,9 @@
 
 [![madewithlove](https://img.shields.io/badge/made_with-%E2%9D%A4-red?style=for-the-badge&labelColor=orange)](https://github.com/TochusC/Infinite-Journey)
 
+Unity72h限时游戏开发（GameJam）- 参赛作品
 
-[**简体中文**](./README.md)
-
-
-[Unity](https://unity.com/)72h限时游戏开发（GameJam）- 参赛作品
+作品演示视频：[[Unity萌新开发挑战NewbiesJam]个人独立参赛作品《无限星旅》Infinite Journey  来看看两周的Unity学习能做到什么水平吧？](https://www.bilibili.com/video/BV1wt4y1u78m/?share_source=copy_web&vd_source=9e3eab19692004623394d513719b1b59)
 
 </div>
 
